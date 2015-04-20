@@ -77,8 +77,6 @@
 		D7E956481AE5801200E08F65 /* source_control_ver4 */ = {
 			isa = PBXGroup;
 			children = (
-				D7E9564B1AE5801200E08F65 /* AppDelegate.swift */,
-				D7E9564D1AE5801200E08F65 /* ViewController.swift */,
 				D7E9566B1AE5809B00E08F65 /* New Group */,
 				D7E9564F1AE5801200E08F65 /* Main.storyboard */,
 				D7E956521AE5801200E08F65 /* Images.xcassets */,
@@ -116,6 +114,8 @@
 		D7E9566B1AE5809B00E08F65 /* New Group */ = {
 			isa = PBXGroup;
 			children = (
+				D7E9564B1AE5801200E08F65 /* AppDelegate.swift */,
+				D7E9564D1AE5801200E08F65 /* ViewController.swift */,
 			);
 			name = "New Group";
 			sourceTree = "<group>";
